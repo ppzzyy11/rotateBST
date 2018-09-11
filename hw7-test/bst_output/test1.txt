@@ -1,0 +1,11 @@
+Running main() from gtest_main.cc
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BSTTest
+[ RUN      ] BSTTest.Test1_EmptyTree
+[       OK ] BSTTest.Test1_EmptyTree (12 ms)
+[----------] 1 test from BSTTest (19 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (52 ms total)
+[  PASSED  ] 1 test.

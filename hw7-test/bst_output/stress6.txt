@@ -1,0 +1,14 @@
+Running main() from gtest_main.cc
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BSTTest
+[ RUN      ] BSTTest.Stress6_GetSmallest
+bst14: 2.831
+bst15: 0.159
+bst16: 0.16
+[       OK ] BSTTest.Stress6_GetSmallest (1007 ms)
+[----------] 1 test from BSTTest (1015 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1047 ms total)
+[  PASSED  ] 1 test.

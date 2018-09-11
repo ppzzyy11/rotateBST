@@ -1,0 +1,11 @@
+Running main() from gtest_main.cc
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from RotateTest
+[ RUN      ] RotateTest.Test10_SameKeysIsomorphic
+[       OK ] RotateTest.Test10_SameKeysIsomorphic (44 ms)
+[----------] 1 test from RotateTest (51 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (82 ms total)
+[  PASSED  ] 1 test.

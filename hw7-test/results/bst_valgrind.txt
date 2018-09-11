@@ -1,0 +1,782 @@
+==6519== Memcheck, a memory error detector
+==6519== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6519== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6519== Command: ../bst_target/test1
+==6519== Parent PID: 6501
+==6519== 
+==6519== 
+==6519== HEAP SUMMARY:
+==6519==     in use at exit: 72,704 bytes in 1 blocks
+==6519==   total heap usage: 163 allocs, 162 frees, 118,392 bytes allocated
+==6519== 
+==6519== LEAK SUMMARY:
+==6519==    definitely lost: 0 bytes in 0 blocks
+==6519==    indirectly lost: 0 bytes in 0 blocks
+==6519==      possibly lost: 0 bytes in 0 blocks
+==6519==    still reachable: 72,704 bytes in 1 blocks
+==6519==         suppressed: 0 bytes in 0 blocks
+==6519== Reachable blocks (those to which a pointer was found) are not shown.
+==6519== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6519== 
+==6519== For counts of detected and suppressed errors, rerun with: -v
+==6519== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6527== Memcheck, a memory error detector
+==6527== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6527== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6527== Command: ../bst_target/test2
+==6527== Parent PID: 6501
+==6527== 
+==6527== 
+==6527== HEAP SUMMARY:
+==6527==     in use at exit: 72,704 bytes in 1 blocks
+==6527==   total heap usage: 174 allocs, 173 frees, 120,792 bytes allocated
+==6527== 
+==6527== LEAK SUMMARY:
+==6527==    definitely lost: 0 bytes in 0 blocks
+==6527==    indirectly lost: 0 bytes in 0 blocks
+==6527==      possibly lost: 0 bytes in 0 blocks
+==6527==    still reachable: 72,704 bytes in 1 blocks
+==6527==         suppressed: 0 bytes in 0 blocks
+==6527== Reachable blocks (those to which a pointer was found) are not shown.
+==6527== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6527== 
+==6527== For counts of detected and suppressed errors, rerun with: -v
+==6527== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6535== Memcheck, a memory error detector
+==6535== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6535== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6535== Command: ../bst_target/test3
+==6535== Parent PID: 6501
+==6535== 
+==6535== 
+==6535== HEAP SUMMARY:
+==6535==     in use at exit: 72,704 bytes in 1 blocks
+==6535==   total heap usage: 175 allocs, 174 frees, 120,888 bytes allocated
+==6535== 
+==6535== LEAK SUMMARY:
+==6535==    definitely lost: 0 bytes in 0 blocks
+==6535==    indirectly lost: 0 bytes in 0 blocks
+==6535==      possibly lost: 0 bytes in 0 blocks
+==6535==    still reachable: 72,704 bytes in 1 blocks
+==6535==         suppressed: 0 bytes in 0 blocks
+==6535== Reachable blocks (those to which a pointer was found) are not shown.
+==6535== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6535== 
+==6535== For counts of detected and suppressed errors, rerun with: -v
+==6535== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6545== Memcheck, a memory error detector
+==6545== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6545== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6545== Command: ../bst_target/test4
+==6545== Parent PID: 6501
+==6545== 
+==6545== 
+==6545== HEAP SUMMARY:
+==6545==     in use at exit: 72,704 bytes in 1 blocks
+==6545==   total heap usage: 179 allocs, 178 frees, 121,057 bytes allocated
+==6545== 
+==6545== LEAK SUMMARY:
+==6545==    definitely lost: 0 bytes in 0 blocks
+==6545==    indirectly lost: 0 bytes in 0 blocks
+==6545==      possibly lost: 0 bytes in 0 blocks
+==6545==    still reachable: 72,704 bytes in 1 blocks
+==6545==         suppressed: 0 bytes in 0 blocks
+==6545== Reachable blocks (those to which a pointer was found) are not shown.
+==6545== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6545== 
+==6545== For counts of detected and suppressed errors, rerun with: -v
+==6545== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6553== Memcheck, a memory error detector
+==6553== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6553== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6553== Command: ../bst_target/test5
+==6553== Parent PID: 6501
+==6553== 
+==6553== 
+==6553== HEAP SUMMARY:
+==6553==     in use at exit: 72,704 bytes in 1 blocks
+==6553==   total heap usage: 179 allocs, 178 frees, 121,061 bytes allocated
+==6553== 
+==6553== LEAK SUMMARY:
+==6553==    definitely lost: 0 bytes in 0 blocks
+==6553==    indirectly lost: 0 bytes in 0 blocks
+==6553==      possibly lost: 0 bytes in 0 blocks
+==6553==    still reachable: 72,704 bytes in 1 blocks
+==6553==         suppressed: 0 bytes in 0 blocks
+==6553== Reachable blocks (those to which a pointer was found) are not shown.
+==6553== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6553== 
+==6553== For counts of detected and suppressed errors, rerun with: -v
+==6553== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6561== Memcheck, a memory error detector
+==6561== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6561== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6561== Command: ../bst_target/test6
+==6561== Parent PID: 6501
+==6561== 
+==6561== 
+==6561== HEAP SUMMARY:
+==6561==     in use at exit: 72,704 bytes in 1 blocks
+==6561==   total heap usage: 179 allocs, 178 frees, 121,065 bytes allocated
+==6561== 
+==6561== LEAK SUMMARY:
+==6561==    definitely lost: 0 bytes in 0 blocks
+==6561==    indirectly lost: 0 bytes in 0 blocks
+==6561==      possibly lost: 0 bytes in 0 blocks
+==6561==    still reachable: 72,704 bytes in 1 blocks
+==6561==         suppressed: 0 bytes in 0 blocks
+==6561== Reachable blocks (those to which a pointer was found) are not shown.
+==6561== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6561== 
+==6561== For counts of detected and suppressed errors, rerun with: -v
+==6561== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6569== Memcheck, a memory error detector
+==6569== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6569== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6569== Command: ../bst_target/test7
+==6569== Parent PID: 6501
+==6569== 
+==6569== 
+==6569== HEAP SUMMARY:
+==6569==     in use at exit: 72,704 bytes in 1 blocks
+==6569==   total heap usage: 183 allocs, 182 frees, 121,656 bytes allocated
+==6569== 
+==6569== LEAK SUMMARY:
+==6569==    definitely lost: 0 bytes in 0 blocks
+==6569==    indirectly lost: 0 bytes in 0 blocks
+==6569==      possibly lost: 0 bytes in 0 blocks
+==6569==    still reachable: 72,704 bytes in 1 blocks
+==6569==         suppressed: 0 bytes in 0 blocks
+==6569== Reachable blocks (those to which a pointer was found) are not shown.
+==6569== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6569== 
+==6569== For counts of detected and suppressed errors, rerun with: -v
+==6569== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6577== Memcheck, a memory error detector
+==6577== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6577== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6577== Command: ../bst_target/test8
+==6577== Parent PID: 6501
+==6577== 
+==6577== 
+==6577== HEAP SUMMARY:
+==6577==     in use at exit: 72,704 bytes in 1 blocks
+==6577==   total heap usage: 179 allocs, 178 frees, 121,066 bytes allocated
+==6577== 
+==6577== LEAK SUMMARY:
+==6577==    definitely lost: 0 bytes in 0 blocks
+==6577==    indirectly lost: 0 bytes in 0 blocks
+==6577==      possibly lost: 0 bytes in 0 blocks
+==6577==    still reachable: 72,704 bytes in 1 blocks
+==6577==         suppressed: 0 bytes in 0 blocks
+==6577== Reachable blocks (those to which a pointer was found) are not shown.
+==6577== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6577== 
+==6577== For counts of detected and suppressed errors, rerun with: -v
+==6577== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6585== Memcheck, a memory error detector
+==6585== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6585== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6585== Command: ../bst_target/test9
+==6585== Parent PID: 6501
+==6585== 
+==6585== 
+==6585== HEAP SUMMARY:
+==6585==     in use at exit: 72,704 bytes in 1 blocks
+==6585==   total heap usage: 169 allocs, 168 frees, 118,531 bytes allocated
+==6585== 
+==6585== LEAK SUMMARY:
+==6585==    definitely lost: 0 bytes in 0 blocks
+==6585==    indirectly lost: 0 bytes in 0 blocks
+==6585==      possibly lost: 0 bytes in 0 blocks
+==6585==    still reachable: 72,704 bytes in 1 blocks
+==6585==         suppressed: 0 bytes in 0 blocks
+==6585== Reachable blocks (those to which a pointer was found) are not shown.
+==6585== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6585== 
+==6585== For counts of detected and suppressed errors, rerun with: -v
+==6585== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6602== Memcheck, a memory error detector
+==6602== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6602== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6602== Command: ../bst_target/test10
+==6602== Parent PID: 6501
+==6602== 
+==6602== 
+==6602== HEAP SUMMARY:
+==6602==     in use at exit: 72,704 bytes in 1 blocks
+==6602==   total heap usage: 180 allocs, 179 frees, 121,040 bytes allocated
+==6602== 
+==6602== LEAK SUMMARY:
+==6602==    definitely lost: 0 bytes in 0 blocks
+==6602==    indirectly lost: 0 bytes in 0 blocks
+==6602==      possibly lost: 0 bytes in 0 blocks
+==6602==    still reachable: 72,704 bytes in 1 blocks
+==6602==         suppressed: 0 bytes in 0 blocks
+==6602== Reachable blocks (those to which a pointer was found) are not shown.
+==6602== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6602== 
+==6602== For counts of detected and suppressed errors, rerun with: -v
+==6602== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6610== Memcheck, a memory error detector
+==6610== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6610== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6610== Command: ../bst_target/test11
+==6610== Parent PID: 6501
+==6610== 
+==6610== 
+==6610== HEAP SUMMARY:
+==6610==     in use at exit: 72,704 bytes in 1 blocks
+==6610==   total heap usage: 181 allocs, 180 frees, 121,152 bytes allocated
+==6610== 
+==6610== LEAK SUMMARY:
+==6610==    definitely lost: 0 bytes in 0 blocks
+==6610==    indirectly lost: 0 bytes in 0 blocks
+==6610==      possibly lost: 0 bytes in 0 blocks
+==6610==    still reachable: 72,704 bytes in 1 blocks
+==6610==         suppressed: 0 bytes in 0 blocks
+==6610== Reachable blocks (those to which a pointer was found) are not shown.
+==6610== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6610== 
+==6610== For counts of detected and suppressed errors, rerun with: -v
+==6610== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6618== Memcheck, a memory error detector
+==6618== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6618== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6618== Command: ../bst_target/test12
+==6618== Parent PID: 6501
+==6618== 
+==6618== 
+==6618== HEAP SUMMARY:
+==6618==     in use at exit: 72,704 bytes in 1 blocks
+==6618==   total heap usage: 181 allocs, 180 frees, 121,156 bytes allocated
+==6618== 
+==6618== LEAK SUMMARY:
+==6618==    definitely lost: 0 bytes in 0 blocks
+==6618==    indirectly lost: 0 bytes in 0 blocks
+==6618==      possibly lost: 0 bytes in 0 blocks
+==6618==    still reachable: 72,704 bytes in 1 blocks
+==6618==         suppressed: 0 bytes in 0 blocks
+==6618== Reachable blocks (those to which a pointer was found) are not shown.
+==6618== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6618== 
+==6618== For counts of detected and suppressed errors, rerun with: -v
+==6618== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6626== Memcheck, a memory error detector
+==6626== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6626== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6626== Command: ../bst_target/test13
+==6626== Parent PID: 6501
+==6626== 
+==6626== 
+==6626== HEAP SUMMARY:
+==6626==     in use at exit: 72,704 bytes in 1 blocks
+==6626==   total heap usage: 183 allocs, 182 frees, 121,264 bytes allocated
+==6626== 
+==6626== LEAK SUMMARY:
+==6626==    definitely lost: 0 bytes in 0 blocks
+==6626==    indirectly lost: 0 bytes in 0 blocks
+==6626==      possibly lost: 0 bytes in 0 blocks
+==6626==    still reachable: 72,704 bytes in 1 blocks
+==6626==         suppressed: 0 bytes in 0 blocks
+==6626== Reachable blocks (those to which a pointer was found) are not shown.
+==6626== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6626== 
+==6626== For counts of detected and suppressed errors, rerun with: -v
+==6626== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6634== Memcheck, a memory error detector
+==6634== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6634== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6634== Command: ../bst_target/test14
+==6634== Parent PID: 6501
+==6634== 
+==6634== 
+==6634== HEAP SUMMARY:
+==6634==     in use at exit: 72,704 bytes in 1 blocks
+==6634==   total heap usage: 183 allocs, 182 frees, 121,268 bytes allocated
+==6634== 
+==6634== LEAK SUMMARY:
+==6634==    definitely lost: 0 bytes in 0 blocks
+==6634==    indirectly lost: 0 bytes in 0 blocks
+==6634==      possibly lost: 0 bytes in 0 blocks
+==6634==    still reachable: 72,704 bytes in 1 blocks
+==6634==         suppressed: 0 bytes in 0 blocks
+==6634== Reachable blocks (those to which a pointer was found) are not shown.
+==6634== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6634== 
+==6634== For counts of detected and suppressed errors, rerun with: -v
+==6634== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6642== Memcheck, a memory error detector
+==6642== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6642== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6642== Command: ../bst_target/test15
+==6642== Parent PID: 6501
+==6642== 
+==6642== 
+==6642== HEAP SUMMARY:
+==6642==     in use at exit: 72,704 bytes in 1 blocks
+==6642==   total heap usage: 183 allocs, 182 frees, 121,328 bytes allocated
+==6642== 
+==6642== LEAK SUMMARY:
+==6642==    definitely lost: 0 bytes in 0 blocks
+==6642==    indirectly lost: 0 bytes in 0 blocks
+==6642==      possibly lost: 0 bytes in 0 blocks
+==6642==    still reachable: 72,704 bytes in 1 blocks
+==6642==         suppressed: 0 bytes in 0 blocks
+==6642== Reachable blocks (those to which a pointer was found) are not shown.
+==6642== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6642== 
+==6642== For counts of detected and suppressed errors, rerun with: -v
+==6642== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6650== Memcheck, a memory error detector
+==6650== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6650== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6650== Command: ../bst_target/test16
+==6650== Parent PID: 6501
+==6650== 
+==6650== 
+==6650== HEAP SUMMARY:
+==6650==     in use at exit: 72,704 bytes in 1 blocks
+==6650==   total heap usage: 185 allocs, 184 frees, 121,492 bytes allocated
+==6650== 
+==6650== LEAK SUMMARY:
+==6650==    definitely lost: 0 bytes in 0 blocks
+==6650==    indirectly lost: 0 bytes in 0 blocks
+==6650==      possibly lost: 0 bytes in 0 blocks
+==6650==    still reachable: 72,704 bytes in 1 blocks
+==6650==         suppressed: 0 bytes in 0 blocks
+==6650== Reachable blocks (those to which a pointer was found) are not shown.
+==6650== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6650== 
+==6650== For counts of detected and suppressed errors, rerun with: -v
+==6650== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6662== Memcheck, a memory error detector
+==6662== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6662== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6662== Command: ../bst_target/test17
+==6662== Parent PID: 6501
+==6662== 
+==6662== 
+==6662== HEAP SUMMARY:
+==6662==     in use at exit: 72,704 bytes in 1 blocks
+==6662==   total heap usage: 184 allocs, 183 frees, 121,388 bytes allocated
+==6662== 
+==6662== LEAK SUMMARY:
+==6662==    definitely lost: 0 bytes in 0 blocks
+==6662==    indirectly lost: 0 bytes in 0 blocks
+==6662==      possibly lost: 0 bytes in 0 blocks
+==6662==    still reachable: 72,704 bytes in 1 blocks
+==6662==         suppressed: 0 bytes in 0 blocks
+==6662== Reachable blocks (those to which a pointer was found) are not shown.
+==6662== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6662== 
+==6662== For counts of detected and suppressed errors, rerun with: -v
+==6662== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6670== Memcheck, a memory error detector
+==6670== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6670== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6670== Command: ../bst_target/test18
+==6670== Parent PID: 6501
+==6670== 
+==6670== 
+==6670== HEAP SUMMARY:
+==6670==     in use at exit: 72,704 bytes in 1 blocks
+==6670==   total heap usage: 194 allocs, 193 frees, 122,009 bytes allocated
+==6670== 
+==6670== LEAK SUMMARY:
+==6670==    definitely lost: 0 bytes in 0 blocks
+==6670==    indirectly lost: 0 bytes in 0 blocks
+==6670==      possibly lost: 0 bytes in 0 blocks
+==6670==    still reachable: 72,704 bytes in 1 blocks
+==6670==         suppressed: 0 bytes in 0 blocks
+==6670== Reachable blocks (those to which a pointer was found) are not shown.
+==6670== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6670== 
+==6670== For counts of detected and suppressed errors, rerun with: -v
+==6670== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6678== Memcheck, a memory error detector
+==6678== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6678== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6678== Command: ../bst_target/test19
+==6678== Parent PID: 6501
+==6678== 
+==6678== 
+==6678== HEAP SUMMARY:
+==6678==     in use at exit: 72,704 bytes in 1 blocks
+==6678==   total heap usage: 180 allocs, 179 frees, 121,072 bytes allocated
+==6678== 
+==6678== LEAK SUMMARY:
+==6678==    definitely lost: 0 bytes in 0 blocks
+==6678==    indirectly lost: 0 bytes in 0 blocks
+==6678==      possibly lost: 0 bytes in 0 blocks
+==6678==    still reachable: 72,704 bytes in 1 blocks
+==6678==         suppressed: 0 bytes in 0 blocks
+==6678== Reachable blocks (those to which a pointer was found) are not shown.
+==6678== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6678== 
+==6678== For counts of detected and suppressed errors, rerun with: -v
+==6678== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6686== Memcheck, a memory error detector
+==6686== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6686== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6686== Command: ../bst_target/test20
+==6686== Parent PID: 6501
+==6686== 
+==6686== 
+==6686== HEAP SUMMARY:
+==6686==     in use at exit: 72,704 bytes in 1 blocks
+==6686==   total heap usage: 202 allocs, 201 frees, 122,332 bytes allocated
+==6686== 
+==6686== LEAK SUMMARY:
+==6686==    definitely lost: 0 bytes in 0 blocks
+==6686==    indirectly lost: 0 bytes in 0 blocks
+==6686==      possibly lost: 0 bytes in 0 blocks
+==6686==    still reachable: 72,704 bytes in 1 blocks
+==6686==         suppressed: 0 bytes in 0 blocks
+==6686== Reachable blocks (those to which a pointer was found) are not shown.
+==6686== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6686== 
+==6686== For counts of detected and suppressed errors, rerun with: -v
+==6686== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6694== Memcheck, a memory error detector
+==6694== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6694== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6694== Command: ../bst_target/test21
+==6694== Parent PID: 6501
+==6694== 
+==6694== 
+==6694== HEAP SUMMARY:
+==6694==     in use at exit: 72,704 bytes in 1 blocks
+==6694==   total heap usage: 191 allocs, 190 frees, 122,744 bytes allocated
+==6694== 
+==6694== LEAK SUMMARY:
+==6694==    definitely lost: 0 bytes in 0 blocks
+==6694==    indirectly lost: 0 bytes in 0 blocks
+==6694==      possibly lost: 0 bytes in 0 blocks
+==6694==    still reachable: 72,704 bytes in 1 blocks
+==6694==         suppressed: 0 bytes in 0 blocks
+==6694== Reachable blocks (those to which a pointer was found) are not shown.
+==6694== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6694== 
+==6694== For counts of detected and suppressed errors, rerun with: -v
+==6694== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6702== Memcheck, a memory error detector
+==6702== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6702== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6702== Command: ../bst_target/test22
+==6702== Parent PID: 6501
+==6702== 
+==6702== 
+==6702== HEAP SUMMARY:
+==6702==     in use at exit: 72,704 bytes in 1 blocks
+==6702==   total heap usage: 178 allocs, 177 frees, 120,128 bytes allocated
+==6702== 
+==6702== LEAK SUMMARY:
+==6702==    definitely lost: 0 bytes in 0 blocks
+==6702==    indirectly lost: 0 bytes in 0 blocks
+==6702==      possibly lost: 0 bytes in 0 blocks
+==6702==    still reachable: 72,704 bytes in 1 blocks
+==6702==         suppressed: 0 bytes in 0 blocks
+==6702== Reachable blocks (those to which a pointer was found) are not shown.
+==6702== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6702== 
+==6702== For counts of detected and suppressed errors, rerun with: -v
+==6702== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6710== Memcheck, a memory error detector
+==6710== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6710== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6710== Command: ../bst_target/test23
+==6710== Parent PID: 6501
+==6710== 
+==6710== 
+==6710== HEAP SUMMARY:
+==6710==     in use at exit: 72,704 bytes in 1 blocks
+==6710==   total heap usage: 178 allocs, 177 frees, 120,164 bytes allocated
+==6710== 
+==6710== LEAK SUMMARY:
+==6710==    definitely lost: 0 bytes in 0 blocks
+==6710==    indirectly lost: 0 bytes in 0 blocks
+==6710==      possibly lost: 0 bytes in 0 blocks
+==6710==    still reachable: 72,704 bytes in 1 blocks
+==6710==         suppressed: 0 bytes in 0 blocks
+==6710== Reachable blocks (those to which a pointer was found) are not shown.
+==6710== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6710== 
+==6710== For counts of detected and suppressed errors, rerun with: -v
+==6710== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6718== Memcheck, a memory error detector
+==6718== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6718== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6718== Command: ../bst_target/test24
+==6718== Parent PID: 6501
+==6718== 
+==6718== 
+==6718== HEAP SUMMARY:
+==6718==     in use at exit: 72,704 bytes in 1 blocks
+==6718==   total heap usage: 178 allocs, 177 frees, 120,168 bytes allocated
+==6718== 
+==6718== LEAK SUMMARY:
+==6718==    definitely lost: 0 bytes in 0 blocks
+==6718==    indirectly lost: 0 bytes in 0 blocks
+==6718==      possibly lost: 0 bytes in 0 blocks
+==6718==    still reachable: 72,704 bytes in 1 blocks
+==6718==         suppressed: 0 bytes in 0 blocks
+==6718== Reachable blocks (those to which a pointer was found) are not shown.
+==6718== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6718== 
+==6718== For counts of detected and suppressed errors, rerun with: -v
+==6718== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6726== Memcheck, a memory error detector
+==6726== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6726== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6726== Command: ../bst_target/test25
+==6726== Parent PID: 6501
+==6726== 
+==6726== 
+==6726== HEAP SUMMARY:
+==6726==     in use at exit: 72,704 bytes in 1 blocks
+==6726==   total heap usage: 175 allocs, 174 frees, 119,952 bytes allocated
+==6726== 
+==6726== LEAK SUMMARY:
+==6726==    definitely lost: 0 bytes in 0 blocks
+==6726==    indirectly lost: 0 bytes in 0 blocks
+==6726==      possibly lost: 0 bytes in 0 blocks
+==6726==    still reachable: 72,704 bytes in 1 blocks
+==6726==         suppressed: 0 bytes in 0 blocks
+==6726== Reachable blocks (those to which a pointer was found) are not shown.
+==6726== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6726== 
+==6726== For counts of detected and suppressed errors, rerun with: -v
+==6726== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6734== Memcheck, a memory error detector
+==6734== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6734== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6734== Command: ../bst_target/test26
+==6734== Parent PID: 6501
+==6734== 
+==6734== 
+==6734== HEAP SUMMARY:
+==6734==     in use at exit: 72,704 bytes in 1 blocks
+==6734==   total heap usage: 175 allocs, 174 frees, 119,940 bytes allocated
+==6734== 
+==6734== LEAK SUMMARY:
+==6734==    definitely lost: 0 bytes in 0 blocks
+==6734==    indirectly lost: 0 bytes in 0 blocks
+==6734==      possibly lost: 0 bytes in 0 blocks
+==6734==    still reachable: 72,704 bytes in 1 blocks
+==6734==         suppressed: 0 bytes in 0 blocks
+==6734== Reachable blocks (those to which a pointer was found) are not shown.
+==6734== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6734== 
+==6734== For counts of detected and suppressed errors, rerun with: -v
+==6734== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6742== Memcheck, a memory error detector
+==6742== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6742== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6742== Command: ../bst_target/test27
+==6742== Parent PID: 6501
+==6742== 
+==6742== 
+==6742== HEAP SUMMARY:
+==6742==     in use at exit: 72,704 bytes in 1 blocks
+==6742==   total heap usage: 181 allocs, 180 frees, 120,344 bytes allocated
+==6742== 
+==6742== LEAK SUMMARY:
+==6742==    definitely lost: 0 bytes in 0 blocks
+==6742==    indirectly lost: 0 bytes in 0 blocks
+==6742==      possibly lost: 0 bytes in 0 blocks
+==6742==    still reachable: 72,704 bytes in 1 blocks
+==6742==         suppressed: 0 bytes in 0 blocks
+==6742== Reachable blocks (those to which a pointer was found) are not shown.
+==6742== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6742== 
+==6742== For counts of detected and suppressed errors, rerun with: -v
+==6742== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6750== Memcheck, a memory error detector
+==6750== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6750== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6750== Command: ../bst_target/test28
+==6750== Parent PID: 6501
+==6750== 
+==6750== 
+==6750== HEAP SUMMARY:
+==6750==     in use at exit: 72,704 bytes in 1 blocks
+==6750==   total heap usage: 182 allocs, 181 frees, 121,312 bytes allocated
+==6750== 
+==6750== LEAK SUMMARY:
+==6750==    definitely lost: 0 bytes in 0 blocks
+==6750==    indirectly lost: 0 bytes in 0 blocks
+==6750==      possibly lost: 0 bytes in 0 blocks
+==6750==    still reachable: 72,704 bytes in 1 blocks
+==6750==         suppressed: 0 bytes in 0 blocks
+==6750== Reachable blocks (those to which a pointer was found) are not shown.
+==6750== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6750== 
+==6750== For counts of detected and suppressed errors, rerun with: -v
+==6750== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6758== Memcheck, a memory error detector
+==6758== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6758== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6758== Command: ../bst_target/stress1
+==6758== Parent PID: 6501
+==6758== 
+==6758== 
+==6758== HEAP SUMMARY:
+==6758==     in use at exit: 72,704 bytes in 1 blocks
+==6758==   total heap usage: 116,701 allocs, 116,700 frees, 7,626,350 bytes allocated
+==6758== 
+==6758== LEAK SUMMARY:
+==6758==    definitely lost: 0 bytes in 0 blocks
+==6758==    indirectly lost: 0 bytes in 0 blocks
+==6758==      possibly lost: 0 bytes in 0 blocks
+==6758==    still reachable: 72,704 bytes in 1 blocks
+==6758==         suppressed: 0 bytes in 0 blocks
+==6758== Reachable blocks (those to which a pointer was found) are not shown.
+==6758== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6758== 
+==6758== For counts of detected and suppressed errors, rerun with: -v
+==6758== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6767== Memcheck, a memory error detector
+==6767== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6767== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6767== Command: ../bst_target/stress2
+==6767== Parent PID: 6501
+==6767== 
+==6767== 
+==6767== HEAP SUMMARY:
+==6767==     in use at exit: 72,704 bytes in 1 blocks
+==6767==   total heap usage: 118,520 allocs, 118,519 frees, 8,580,846 bytes allocated
+==6767== 
+==6767== LEAK SUMMARY:
+==6767==    definitely lost: 0 bytes in 0 blocks
+==6767==    indirectly lost: 0 bytes in 0 blocks
+==6767==      possibly lost: 0 bytes in 0 blocks
+==6767==    still reachable: 72,704 bytes in 1 blocks
+==6767==         suppressed: 0 bytes in 0 blocks
+==6767== Reachable blocks (those to which a pointer was found) are not shown.
+==6767== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6767== 
+==6767== For counts of detected and suppressed errors, rerun with: -v
+==6767== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6775== Memcheck, a memory error detector
+==6775== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6775== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6775== Command: ../bst_target/stress3
+==6775== Parent PID: 6501
+==6775== 
+==6775== 
+==6775== HEAP SUMMARY:
+==6775==     in use at exit: 72,704 bytes in 1 blocks
+==6775==   total heap usage: 67,040 allocs, 67,039 frees, 4,354,398 bytes allocated
+==6775== 
+==6775== LEAK SUMMARY:
+==6775==    definitely lost: 0 bytes in 0 blocks
+==6775==    indirectly lost: 0 bytes in 0 blocks
+==6775==      possibly lost: 0 bytes in 0 blocks
+==6775==    still reachable: 72,704 bytes in 1 blocks
+==6775==         suppressed: 0 bytes in 0 blocks
+==6775== Reachable blocks (those to which a pointer was found) are not shown.
+==6775== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6775== 
+==6775== For counts of detected and suppressed errors, rerun with: -v
+==6775== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6783== Memcheck, a memory error detector
+==6783== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6783== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6783== Command: ../bst_target/stress4
+==6783== Parent PID: 6501
+==6783== 
+==6783== 
+==6783== HEAP SUMMARY:
+==6783==     in use at exit: 72,704 bytes in 1 blocks
+==6783==   total heap usage: 113,742 allocs, 113,741 frees, 6,099,630 bytes allocated
+==6783== 
+==6783== LEAK SUMMARY:
+==6783==    definitely lost: 0 bytes in 0 blocks
+==6783==    indirectly lost: 0 bytes in 0 blocks
+==6783==      possibly lost: 0 bytes in 0 blocks
+==6783==    still reachable: 72,704 bytes in 1 blocks
+==6783==         suppressed: 0 bytes in 0 blocks
+==6783== Reachable blocks (those to which a pointer was found) are not shown.
+==6783== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6783== 
+==6783== For counts of detected and suppressed errors, rerun with: -v
+==6783== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6793== Memcheck, a memory error detector
+==6793== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6793== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6793== Command: ../bst_target/stress5
+==6793== Parent PID: 6501
+==6793== 
+==6793== 
+==6793== HEAP SUMMARY:
+==6793==     in use at exit: 72,704 bytes in 1 blocks
+==6793==   total heap usage: 67,043 allocs, 67,042 frees, 4,354,461 bytes allocated
+==6793== 
+==6793== LEAK SUMMARY:
+==6793==    definitely lost: 0 bytes in 0 blocks
+==6793==    indirectly lost: 0 bytes in 0 blocks
+==6793==      possibly lost: 0 bytes in 0 blocks
+==6793==    still reachable: 72,704 bytes in 1 blocks
+==6793==         suppressed: 0 bytes in 0 blocks
+==6793== Reachable blocks (those to which a pointer was found) are not shown.
+==6793== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6793== 
+==6793== For counts of detected and suppressed errors, rerun with: -v
+==6793== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+==6801== Memcheck, a memory error detector
+==6801== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==6801== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==6801== Command: ../bst_target/stress6
+==6801== Parent PID: 6501
+==6801== 
+==6801== 
+==6801== HEAP SUMMARY:
+==6801==     in use at exit: 72,704 bytes in 1 blocks
+==6801==   total heap usage: 67,043 allocs, 67,042 frees, 4,354,458 bytes allocated
+==6801== 
+==6801== LEAK SUMMARY:
+==6801==    definitely lost: 0 bytes in 0 blocks
+==6801==    indirectly lost: 0 bytes in 0 blocks
+==6801==      possibly lost: 0 bytes in 0 blocks
+==6801==    still reachable: 72,704 bytes in 1 blocks
+==6801==         suppressed: 0 bytes in 0 blocks
+==6801== Reachable blocks (those to which a pointer was found) are not shown.
+==6801== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==6801== 
+==6801== For counts of detected and suppressed errors, rerun with: -v
+==6801== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+

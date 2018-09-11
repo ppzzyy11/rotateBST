@@ -1,0 +1,11 @@
+Running main() from gtest_main.cc
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from RotateTest
+[ RUN      ] RotateTest.Test19_Transform100
+[       OK ] RotateTest.Test19_Transform100 (67 ms)
+[----------] 1 test from RotateTest (75 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (107 ms total)
+[  PASSED  ] 1 test.

@@ -1,0 +1,135 @@
+
+	FOUND: 0
+	FOUND: 1
+	FOUND: expansions = 1
+
+Test permitted1 passed
+
+	FOUND: 10
+	FOUND: 11
+	FOUND: expansions = 1
+
+Test permitted2 passed
+
+	FOUND: 00
+	FOUND: 10
+	FOUND: 11
+	FOUND: expansions = 2
+
+Test permitted3 passed
+
+	FOUND: 00
+	FOUND: 01
+	FOUND: 11
+	FOUND: expansions = 2
+
+Test permitted4 passed
+
+	FOUND: 000
+	FOUND: 001
+	FOUND: 101
+	FOUND: 111
+	FOUND: expansions = 3
+
+Test permitted5 passed
+
+	FOUND: 000
+	FOUND: 100
+	FOUND: 101
+	FOUND: 111
+	FOUND: expansions = 3
+
+Test permitted6 passed
+
+	FOUND: 0001
+	FOUND: 1001
+	FOUND: 1101
+	FOUND: 1111
+	FOUND: expansions = 4
+
+Test permitted7 passed
+
+	FOUND: 00000
+	FOUND: 00010
+	FOUND: 00110
+	FOUND: 10110
+	FOUND: 11110
+	FOUND: 11111
+	FOUND: expansions = 8
+
+Test permitted8 passed
+
+	FOUND: 00000
+	FOUND: 00010
+	FOUND: 10010
+	FOUND: 11010
+	FOUND: 11110
+	FOUND: 11111
+	FOUND: expansions = 8
+
+Test permitted9 passed
+
+	FOUND: 00000
+	FOUND: 00100
+	FOUND: 01100
+	FOUND: 01110
+	FOUND: 01111
+	FOUND: 11111
+	FOUND: expansions = 5
+
+Test permitted10 passed
+
+	FOUND: 00100
+	FOUND: 01100
+	FOUND: 01101
+	FOUND: 11101
+	FOUND: 11111
+	FOUND: expansions = 4
+
+Test permitted11 passed
+
+	FOUND: No transformation
+	FOUND: expansions = 2
+
+Test permitted12 passed
+
+	FOUND: 01000010
+	FOUND: 11000010
+	FOUND: 10000010
+	FOUND: 10000011
+	FOUND: 00000011
+	FOUND: 00100011
+	FOUND: 00110011
+	FOUND: 00110001
+	FOUND: 00110101
+	FOUND: 00110100
+	FOUND: 00111100
+	FOUND: 00011100
+	FOUND: 10011100
+	FOUND: 10011110
+	FOUND: 11011110
+	FOUND: 11111110
+	FOUND: 11111111
+	FOUND: expansions = 41
+
+Test permitted13 passed
+
+	FOUND: No transformation
+	FOUND: expansions = 247
+
+Test permitted14 passed
+
+	FOUND: 00000000
+	FOUND: 00000001
+	FOUND: 00000011
+	FOUND: 00000111
+	FOUND: 00001111
+	FOUND: 00011111
+	FOUND: 00111111
+	FOUND: 01111111
+	FOUND: 11111111
+	FOUND: expansions = 8
+
+Test permitted15 passed
+
+All Test Cases Passed
